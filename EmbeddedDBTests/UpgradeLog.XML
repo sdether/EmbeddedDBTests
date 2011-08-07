@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EmbeddedDBTests">
+</Property><Property Name="Solution File" Value="C:\droog\EmbeddedDBTests\EmbeddedDBTests\EmbeddedDBTests.sln">
+</Property><Property Name="Date" Value="Monday, July 11, 2011">
+</Property><Property Name="Time" Value="7:23:34 AM">
+</Property></Properties><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="EmbeddedDBTests.csproj" Description="Project file successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\EmbeddedDBTests.csproj">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Diagnostics.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Diagnostics.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Stackoverflow\Comment.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Stackoverflow\Comment.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Stackoverflow\Post.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Stackoverflow\Post.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Stackoverflow\User.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Stackoverflow\User.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Stackoverflow\Votes.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Stackoverflow\Votes.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="TAsync.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\TAsync.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="TStackoverflow.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\TStackoverflow.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="Stackoverflow\Badge.cs" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\Stackoverflow\Badge.cs">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="App.config" Description="File successfully backed up as C:\droog\EmbeddedDBTests\EmbeddedDBTests\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="EmbeddedDBTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EmbeddedDBTests" Source="EmbeddedDBTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EmbeddedDBTests" Source="EmbeddedDBTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
